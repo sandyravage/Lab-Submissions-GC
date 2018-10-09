@@ -1,0 +1,7 @@
+C:\Users\TEVERTS\source\repos\Lab2GrandRiver\Lab2GrandRiver\obj\Debug\Lab2GrandRiver.csprojAssemblyReference.cache
+C:\Users\TEVERTS\source\repos\Lab2GrandRiver\Lab2GrandRiver\obj\Debug\Lab2GrandRiver.csproj.CoreCompileInputs.cache
+C:\Users\TEVERTS\source\repos\Lab2GrandRiver\Lab2GrandRiver\bin\Debug\Lab2GrandRiver.exe.config
+C:\Users\TEVERTS\source\repos\Lab2GrandRiver\Lab2GrandRiver\bin\Debug\Lab2GrandRiver.exe
+C:\Users\TEVERTS\source\repos\Lab2GrandRiver\Lab2GrandRiver\bin\Debug\Lab2GrandRiver.pdb
+C:\Users\TEVERTS\source\repos\Lab2GrandRiver\Lab2GrandRiver\obj\Debug\Lab2GrandRiver.exe
+C:\Users\TEVERTS\source\repos\Lab2GrandRiver\Lab2GrandRiver\obj\Debug\Lab2GrandRiver.pdb
